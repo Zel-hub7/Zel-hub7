@@ -1,0 +1,27 @@
+name: Wakatime Stats
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Update Wakatime Stats
+        run: python wakatime_stats.py
+
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update Wakatime Stats
+          branch: main

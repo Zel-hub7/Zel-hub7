@@ -58,6 +58,12 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 
+### Wakatime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 
 
 📈 my github stats
@@ -69,6 +75,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zel-hub7&layout=compact&theme=gotham" alt="Zelalem's Top Languages" />
 </p>
-
-
 
