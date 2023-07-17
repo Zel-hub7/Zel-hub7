@@ -4,7 +4,8 @@
 </a>
 
 <a href="https://www.linkedin.com/in/zelalem-yohannes-40356a239/">
-  <img align="left" alt="Zelalem's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Zelalem's LinkedIN" width="22px" src="https://simpleicons.org/icons/linkedin.svg
+" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
