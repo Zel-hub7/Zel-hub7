@@ -17,10 +17,19 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Update Wakatime Stats
+      - name: Fetch Wakatime Stats
         run: python wakatime_stats.py
 
-      - name: Commit and Push
+      - name: Update README
+        run: |
+          cat README.md
+          echo "### Wakatime Stats" >> README.md
+          echo "<!--START_SECTION:waka-->" >> README.md
+          cat wakatime_stats.md >> README.md
+          echo "<!--END_SECTION:waka-->" >> README.md
+          cat README.md
+
+      - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update Wakatime Stats
