@@ -67,7 +67,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📊 My top languages:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zel-hub7&layout=compact" alt="Zelalem's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zel-hub7&layout=compact&theme=gotham" alt="Zelalem's Top Languages" />
 </p>
 
 
