@@ -1,36 +1,16 @@
-name: Waka readme
+name: Waka Readme
 
 on:
-  push:
-    branches:
-      - main
-
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 jobs:
   update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - name: Set up Python
-        uses: actions/setup-python@v2
+      - uses: anmol098/waka-readme-stats@master
         with:
-          python-version: 3.x
-
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Fetch Wakatime Stats
-        run: python wakatime_stats.py
-
-      - name: Update README
-        run: |
-          cat README.md
-          echo "### Wakatime Stats" >> README.md
-          echo "<!--START_SECTION:waka-->" >> README.md
-          cat wakatime_stats.md >> README.md
-          echo "<!--END_SECTION:waka-->" >> README.md
-          cat README.md
-
-      - name: Commit and Push Changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Update Wakatime Stats
-          branch: main
+          WAKATIME_API_KEY: ${{ 'waka_088d10d8-cdf2-4f60-a5e1-77b976d1f7cd' }}
+          GH_TOKEN: ${{'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'}}
