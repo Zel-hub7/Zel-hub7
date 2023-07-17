@@ -11,9 +11,11 @@
 
 <br />
 
-Hi, I'm Zelalem Yohannes a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Zelalem Yohannes, a passionate full-stack web developer and a freelance software engineer from Ethiopia. I pursued Computer Information Science at AAU (Addis Ababa University) and currently, I am advancing my skills through Microverse Remote Learning School.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+My enthusiasm for software development stems from envisioning ideas and bringing them to life with elegant interfaces. I place great emphasis on crafting exceptional user experiences, architecting robust systems, and maintaining high code quality in everything I create.
+
+Feel free to reach out if you have any questions or need assistance.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
