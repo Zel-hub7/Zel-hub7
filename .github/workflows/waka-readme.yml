@@ -5,12 +5,17 @@ on:
     # Runs at 12am IST
     - cron: '30 18 * * *'
   workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update Readme with Waka Metrics
+        uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: '${{ secrets.waka_088d10d8-cdf2-4f60-a5e1-77b976d1f7cd }}'
-          GH_TOKEN: '${{ secrets.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 }}'
+          WAKATIME_API_KEY: ${{ secrets.waka_63b542de-09a6-487d-bd59-2e0de3271bca }}
+          GH_TOKEN: ${{ secrets.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 }}
