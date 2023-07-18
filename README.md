@@ -75,6 +75,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zel-hub7&layout=compact&theme=gotham" alt="Zelalem's Top Languages" />
 </p>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zel-hub7&" alt="ZelalemYohannes" />
-
+<p align = "center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zel-hub7&theme=gotham" alt="ZelalemYohannes" />
+</p>
