@@ -37,18 +37,6 @@ Feel free to reach out if you have any questions or need assistance.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   11 hrs 8 mins   ███████████████████████░░   92.61 %
-JSON         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-JavaScript   24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-```
-
-<!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
