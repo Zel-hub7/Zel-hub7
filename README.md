@@ -58,6 +58,6 @@ Feel free to reach out if you have any questions or need assistance.
 </p>
 <p align = "center">
   
- <img src="https://github-readme-stats.vercel.app/api?username=Mahdi-Niazi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Mahdi Niazi Github Stats"> &emsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdi-niazi&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=0,000000,130F40&hide_border=true" alt="Mahdi Niazi" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Zel-hub7&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Zola's Github Stats"> &emsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdi-niazi&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=0,000000,130F40&hide_border=true" alt="Mahdi Niazi" />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Zel-hub7&label=Profile%20views&color=0e75b6&style=flat" alt="ZelalemYOhanes"/> 
 </p>
