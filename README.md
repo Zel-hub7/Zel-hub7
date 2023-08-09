@@ -47,3 +47,4 @@ Feel free to reach out if you have any questions or need assistance.
   <a href = "https://github-readme-streak-stats.herokuapp.com/?user=Zel-hub7&theme=gotham"></a>
    <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Zel-hub7&theme=gotham"/>
 </p>
+[![Bantealem Geto's github stats](https://github-readme-stats.vercel.app/api?username=Zel-hub7&show_icons=true&theme=radical)](https://github.com/Zel-hub7/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zel-hub7&show_icons=true&theme=radical&layout=compact)](https://github.com/Bantealem/github-readme-stats)
