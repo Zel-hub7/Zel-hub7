@@ -44,7 +44,6 @@ Feel free to reach out if you have any questions or need assistance.
  <img src="https://github-readme-stats.vercel.app/api?username=Zel-hub7&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Zola's Github Stats">
  &emsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zel-hub7&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=0,000000,130F40&hide_border=true" alt="Zelalem" />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Zel-hub7&label=Profile%20views&color=0e75b6&style=flat" alt="ZelalemYOhanes"/> 
-  <a href = "https://github-readme-streak-stats.herokuapp.com/?user=Zel-hub7&theme=gotham"></a>
-   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Zel-hub7&theme=gotham"/>
+ 
 </p>
-[![Bantealem Geto's github stats](https://github-readme-stats.vercel.app/api?username=Zel-hub7&show_icons=true&theme=radical)](https://github.com/Zel-hub7/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zel-hub7&show_icons=true&theme=radical&layout=compact)](https://github.com/Bantealem/github-readme-stats)
+
