@@ -57,7 +57,8 @@ Feel free to reach out if you have any questions or need assistance.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zel-hub7&layout=compact&theme=gotham" alt="Zelalem's Top Languages" />
 </p>
 <p align = "center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zel-hub7&theme=gotham" alt="Zelalem Yohannes" />
+  
+<img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=Zel-hub7&theme=gotham](https://github-readme-stats.vercel.app/api?username=Mahdi-Niazi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Mahdi Niazi Github Stats">)https://github-readme-stats.vercel.app/api?username=Mahdi-Niazi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Mahdi Niazi Github Stats">" alt="Zelalem Yohannes" />
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Zel-hub7&label=Profile%20views&color=0e75b6&style=flat" alt="ZelalemYOhanes"/> 
 </p>
