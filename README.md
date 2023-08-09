@@ -38,6 +38,7 @@ Feel free to reach out if you have any questions or need assistance.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Zel-hub7&theme=gotham"/>
   <a href = "https://github-readme-streak-stats.herokuapp.com/?user=Zel-hub7&theme=gotham"></a>
   
  <img src="https://github-readme-stats.vercel.app/api?username=Zel-hub7&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Zola's Github Stats">
