@@ -7,7 +7,6 @@
  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
@@ -46,4 +45,3 @@ Feel free to reach out if you have any questions or need assistance.
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Zel-hub7&label=Profile%20views&color=0e75b6&style=flat" alt="ZelalemYOhanes"/> 
  
 </p>
-
