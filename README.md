@@ -17,7 +17,6 @@ My enthusiasm for software development stems from envisioning ideas and bringing
 
 Feel free to reach out if you have any questions or need assistance.
 
-
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:zelalemyohannes62@gmail.com) :)
