@@ -29,7 +29,7 @@ Feel free to reach out if you have any questions or need assistance.
 
 
  
-- 💼 any freelance work? do reach, [email](mailto:zelalemyohannes62@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:zelalemyohannes75@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
