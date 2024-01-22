@@ -18,7 +18,7 @@
 <br />
 
 
-Hi, I'm Zelalem Yohannes, a passionate full-stack web developer and a freelance software engineer from Ethiopia. I pursued Computer Information Science at AAU (Addis Ababa University) and currently, I am advancing my skills through Microverse Remote Learning School.
+Hi, I'm Zelalem Yohannes, a passionate full-stack web developer and a freelance software engineer from Ethiopia. I pursued Computer Information Science at AAU (Addis Ababa University) and I am graduated from Microverse remote full-stack program.
 
 My enthusiasm for software development stems from envisioning ideas and bringing them to life with elegant interfaces. I place great emphasis on crafting exceptional user experiences, architecting robust systems, and maintaining high code quality in everything I create.
 
